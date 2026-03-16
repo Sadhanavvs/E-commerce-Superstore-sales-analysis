@@ -18,4 +18,5 @@
 # Dataset
 <a href= "https://github.com/Sadhanavvs/E-commerce-Superstore-sales-analysis/blob/main/superstore%20sales%20analysis.csv">superstore data</a>
 # Dashboard
-<a href= "
+<a href= "https://github.com/Sadhanavvs/E-commerce-Superstore-sales-analysis/blob/main/superstore%20sales%20analysis.jpg">viewdashboard</a>
+
