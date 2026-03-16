@@ -16,4 +16,6 @@
  * A small group of products accounts for a large protion of revenue.
  * Higher discounts often reduce overall profitability.
 # Dataset
--a<
+<a href= "https://github.com/Sadhanavvs/E-commerce-Superstore-sales-analysis/blob/main/superstore%20sales%20analysis.csv">superstore data</a>
+# Dashboard
+<a href= "
