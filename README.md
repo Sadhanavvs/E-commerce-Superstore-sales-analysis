@@ -1,7 +1,5 @@
 # E-commerce-Superstore-sales-analysis
- ## Project Overview
- This project analyses retail sales data to understand revenue trends, product performance,and regional sales distribution. The analysis helps identify key business insights that can support data-driven decision making.
- # Obejective
+ # Objective
  * Analyse overall sales and profit performance
  * Identify top-performing product categories
  * Compare sales across regions
